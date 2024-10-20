@@ -1,6 +1,6 @@
 # Autoencoders
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*44eDEuZBEsmG_TCAKRI3Kw@2x.png)
+![](https://www.assemblyai.com/blog/content/images/2022/01/autoencoder_architecture.png)
 
 ## Introduction
 
