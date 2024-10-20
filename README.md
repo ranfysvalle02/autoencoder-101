@@ -6,14 +6,15 @@ In the realm of unsupervised learning, autoencoders have emerged as powerful too
 
 ## Table of Contents
 
-1. [The Core Architecture of Autoencoders: How Do They Work?](#The-Core-Architecture-of-Autoencoders:-How-Do-They-Work?)
-2. [Text Compression: Making Language Models Efficient](#Text-Compression:-Making-Language-Models-Efficient)
-3. [Denoising Autoencoders: Handling Noisy Text Data](#Denoising-Autoencoders:-Handling-Noisy-Text-Data)
-4. [Feature Extraction with Autoencoders: Unlocking Hidden Knowledge](#Feature-Extraction-with-Autoencoders:-Unlocking-Hidden-Knowledge)
-5. [Autoencoders and Semi-Supervised Learning: Combining Labeled and Unlabeled Data](#Autoencoders-and-Semi-Supervised-Learning:-Combining-Labeled-and-Unlabeled-Data)
-6. [Challenges and Best Practices When Using Autoencoders for Text](#Challenges-and-Best-Practices-When-Using-Autoencoders-for-Text)
-7. [Autoencoders for Retrieval-Augmented Generation (RAG)](#Autoencoders-for-Retrieval-Augmented-Generation-(RAG))
-8. [Conclusion: The Power of Autoencoders in Text Processing](#Conclusion:-The-Power-of-Autoencoders-in-Text-Processing)
+1. [The Core Architecture of Autoencoders: How Do They Work?](#the-core-architecture-of-autoencoders-how-do-they-work)
+2. [Text Compression: Making Language Models Efficient](#text-compression-making-language-models-efficient)
+3. [Denoising Autoencoders: Handling Noisy Text Data](#denoising-autoencoders-handling-noisy-text-data)
+4. [Feature Extraction with Autoencoders: Unlocking Hidden Knowledge](#feature-extraction-with-autoencoders-unlocking-hidden-knowledge)
+5. [Autoencoders and Semi-Supervised Learning: Combining Labeled and Unlabeled Data](#autoencoders-and-semi-supervised-learning-combining-labeled-and-unlabeled-data)
+6. [Challenges and Best Practices When Using Autoencoders for Text](#challenges-and-best-practices-when-using-autoencoders-for-text)
+7. [Autoencoders for Retrieval-Augmented Generation (RAG)](#autoencoders-for-retrieval-augmented-generation-rag)
+8. [Conclusion: The Power of Autoencoders in Text Processing](#conclusion-the-power-of-autoencoders-in-text-processing)
+
 
 ---
 
