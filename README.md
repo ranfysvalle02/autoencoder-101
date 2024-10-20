@@ -1,5 +1,7 @@
 # Autoencoders
 
+![](https://miro.medium.com/v2/resize:fit:1400/1*44eDEuZBEsmG_TCAKRI3Kw@2x.png)
+
 ## Introduction
 
 In the realm of unsupervised learning, autoencoders have emerged as powerful tools for data compression, noise removal, and feature extraction. Initially celebrated for their capabilities in image processing, their application has significantly expanded into natural language processing (NLP), addressing the complexities of unstructured text data. This blog post will explore the mechanics of autoencoders, illustrating how they can compress text, clean noisy data, and uncover valuable insights from extensive text corpora. We’ll delve into both the theoretical frameworks and practical implementations, showcasing the transformative potential of autoencoders in the NLP landscape.
