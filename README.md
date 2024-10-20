@@ -1,6 +1,6 @@
 # Autoencoders
 
-![](https://www.assemblyai.com/blog/content/images/2022/01/autoencoder_architecture.png)
+![](https://metana.io/wp-content/uploads/2023/08/uL-1024x512.png)
 
 ## Unsupervised Learning: An Overview
 
@@ -53,7 +53,7 @@ By carefully considering the specific characteristics of the data and employing 
 
 ---
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*phjqxD_E5dmhmxdnhSTmqg.png)
+![](https://www.assemblyai.com/blog/content/images/2022/01/autoencoder_architecture.png)
 
 ## 1. The Core Architecture of Autoencoders: How Do They Work?
 
@@ -77,6 +77,8 @@ In NLP, autoencoders are particularly beneficial for managing high-dimensional t
 - **Variational Autoencoders (VAEs)**: Introduce probabilistic elements, enabling applications in text generation and uncertainty representation.
 
 ---
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*phjqxD_E5dmhmxdnhSTmqg.png)
 
 ## 2. Text Compression
 
