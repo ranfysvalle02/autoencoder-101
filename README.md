@@ -19,6 +19,8 @@ In the realm of unsupervised learning, autoencoders have emerged as powerful too
 
 ---
 
+![](https://miro.medium.com/v2/resize:fit:1400/1*phjqxD_E5dmhmxdnhSTmqg.png)
+
 ## 1. The Core Architecture of Autoencoders: How Do They Work?
 
 Autoencoders are neural networks specifically designed to learn efficient, lower-dimensional representations of input data. This capability allows for effective compression and reconstruction. The key components of an autoencoder include:
