@@ -545,11 +545,11 @@ While autoencoders are powerful, they present several challenges:
 
 ---
 
-## 7. Conclusion: The Power of Autoencoders in Text Processing
+## 6. Conclusion: The Power of Autoencoders in Text Processing
 
 Autoencoders offer a powerful and flexible approach to text processing. They can provide valuable insights from extensive text corpora and enhance the performance of NLP applications. Whether used for compression, denoising, feature extraction, or in combination with other systems like RAG, they are a valuable tool in the realm of text processing.
 
-## 8. Evaluation Metrics for Autoencoders
+## 7. Evaluation Metrics for Autoencoders
 
 When working with autoencoders, particularly in text processing tasks, it’s essential to evaluate their performance to ensure they are effectively learning meaningful representations. Here are some commonly used metrics and their relevance to the examples provided in this blog post:
 
