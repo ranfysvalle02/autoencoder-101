@@ -44,7 +44,7 @@ In NLP, autoencoders are particularly beneficial for managing high-dimensional t
 
 ---
 
-## 2. Text Compression: Making Language Models Efficient
+## 2. Text Compression
 
 Text compression is vital in NLP for handling vast amounts of unstructured data. The encoder compresses text into a low-dimensional latent representation that captures semantic meaning.
 
