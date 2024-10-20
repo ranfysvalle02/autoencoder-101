@@ -2,6 +2,34 @@
 
 ![](https://www.assemblyai.com/blog/content/images/2022/01/autoencoder_architecture.png)
 
+## Unsupervised Learning: An Overview
+
+Unsupervised learning is a type of machine learning that uses algorithms to analyze and cluster unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention. Unlike supervised learning that relies on labeled input and output pairs, unsupervised learning works with datasets without historical labels. 
+
+The primary goal of unsupervised learning is to model the underlying structure or distribution in the data to learn more about the data itself. It's called "unsupervised" because there's no correct answers or teacher provided, and algorithms are left to their own devises to discover and present the interesting structure in the data.
+
+### Types of Unsupervised Learning
+
+Unsupervised learning can be categorized into two main types: clustering and dimensionality reduction.
+
+1. **Clustering**: Clustering is the task of dividing the population or data points into several groups such that data points in the same groups are more similar to other data points in the same group than those in other groups. In simple words, the aim is to segregate groups with similar traits and assign them into clusters. Examples of clustering algorithms include K-means, DBSCAN, and Hierarchical Clustering.
+
+2. **Dimensionality Reduction**: Dimensionality reduction is the process of reducing the number of random variables under consideration by obtaining a set of principal variables. It can be divided into feature selection and feature extraction. Principal Component Analysis (PCA), Singular Value Decomposition (SVD), and Latent Semantic Analysis (LSA) are examples of dimensionality reduction techniques.
+
+### Applications of Unsupervised Learning
+
+Unsupervised learning has numerous practical applications, including:
+
+- **Anomaly Detection**: Unsupervised learning is commonly used to detect anomalies or outliers in the data. For instance, it can identify fraudulent transactions in banking, or detect unusual patterns that could indicate a cyber attack in network security.
+
+- **Association Mining**: Unsupervised learning can be used to find rules that describe large portions of your data, such as "people that buy X also tend to buy Y".
+
+- **Clustering**: Unsupervised learning can be used to group data based on the similarity of the individual instances. Examples include customer segmentation in marketing, or image segmentation in computer vision.
+
+- **Feature Reduction**: Unsupervised learning is used to reduce the number of features in a dataset while retaining its structure and usefulness. This is often a necessary step in data preprocessing before applying other machine learning algorithms.
+
+- **Autoencoders**: As discussed in this blog post, autoencoders are an example of unsupervised learning where they are used for data compression, noise reduction, and feature extraction.
+
 ## Introduction
 
 In the realm of unsupervised learning, autoencoders have emerged as powerful tools for data compression, noise removal, and feature extraction. Initially celebrated for their capabilities in image processing, their application has significantly expanded into natural language processing (NLP), addressing the complexities of unstructured text data. This blog post will explore the mechanics of autoencoders, illustrating how they can compress text, clean noisy data, and uncover valuable insights from extensive text corpora. We’ll delve into both the theoretical frameworks and practical implementations, showcasing the transformative potential of autoencoders in the NLP landscape.
