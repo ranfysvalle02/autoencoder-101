@@ -1,5 +1,22 @@
 # Autoencoders in NLP: Compressing Text and Extracting Knowledge from Noisy Data
 
+While autoencoders can be a valuable tool in certain contexts, they might not be the most effective solution for all GenAI applications.
+
+Here are some reasons why autoencoders might not be as useful as initially thought:
+
+* **Limited Understanding of Semantics:** Autoencoders primarily learn to represent data in a lower-dimensional space, focusing on statistical patterns rather than semantic meaning. This can limit their ability to capture nuances and context in natural language generation.
+* **Generative Limitations:** While autoencoders can be used for generative tasks, they might not be as powerful as other generative models like GANs (Generative Adversarial Networks) or VAEs (Variational Autoencoders) specifically designed for this purpose.
+* **Data Dependence:** Autoencoders are highly dependent on the quality and quantity of the training data. If the data is biased or incomplete, the model's performance will be limited.
+
+**So, what might be more effective?**
+
+* **Transformer-based models:** These models have revolutionized NLP and are particularly well-suited for tasks like text generation, translation, and summarization. They are capable of capturing long-range dependencies and understanding semantic relationships.
+* **Reinforcement learning:** By training models to maximize a reward function, reinforcement learning can be used to generate text that is both informative and engaging.
+* **Hybrid approaches:** Combining different techniques, such as autoencoders with transformer-based models or reinforcement learning, can often lead to better results.
+
+**It's important to carefully consider the specific requirements of your GenAI application** before selecting the most appropriate technique. While autoencoders might not be the silver bullet, they can still be a valuable tool in the right context.
+
+
 ### Introduction
 
 Autoencoders have been a game-changer in unsupervised learning, providing a powerful framework for data compression, noise removal, and feature extraction. While their initial popularity was rooted in image processing, autoencoders have expanded their utility to natural language processing (NLP), where they tackle unstructured text data. In this post, we'll dive deep into how autoencoders compress text, clean noisy data, and extract valuable insights from large text corpora. Along the way, we'll cover both the theoretical underpinnings and practical implementations of autoencoders, showcasing their potential in the world of NLP.
