@@ -129,7 +129,7 @@ from torch.utils.data import DataLoader, Dataset
 import torch.optim as optim
 """
 An Autoencoder is a type of artificial neural network used for learning effective representations of input data. 
-The main idea is to train the network to ignore signal noise.
+The main idea for a Denoising Autoencoder is to train the network to ignore signal noise.
 """
 class SimpleNoisyCharacterDataset(Dataset):
     def __init__(self, chars):
